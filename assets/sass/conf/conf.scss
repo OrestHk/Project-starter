@@ -1,0 +1,12 @@
+// Colors
+
+// Fonts
+
+// Vars
+
+// Mixins
+@mixin clear{
+  content: '';
+  clear: both;
+  display: block;
+}
